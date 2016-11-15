@@ -1,0 +1,19 @@
+{
+  "name": "parstr",
+  "version": "0.0.1",
+  "description": "A JavaScript API for parsing strings with custom rules",
+  "main": "parstr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CraigH2013/parstr.git"
+  },
+  "author": "Craig Harrison",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CraigH2013/parstr/issues"
+  },
+  "homepage": "https://github.com/CraigH2013/parstr#readme"
+}
